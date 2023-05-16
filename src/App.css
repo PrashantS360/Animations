@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Imperial+Script&family=Island+Moments&family=Kenia&family=Macondo&family=Moon+Dance&family=Oooh+Baby&family=Roboto+Condensed&family=Smooch&family=Teko&family=Vujahday+Script&display=swap');
+
+
+* {
+    font-family: 'Baloo 2', 'Roboto Condensed', cursive;
+    ;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+nav>div {
+    background-color: rgb(27, 27, 27);
+}
+
+.hide-scroll::-webkit-scrollbar {
+    display: none;
+  }
